@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 ### Hi Developers 👋
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/channel/UCzOvpVchiqAbvtwckdgsn8A)
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/chhavi-srivastava-94926a14a/)
+[![Linkedin Badge](https://img.shields.io/badge/-Chhavi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/chhavi-srivastava-94926a14a/)
 
 
 I'm
